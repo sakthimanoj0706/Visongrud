@@ -1,0 +1,4 @@
+cd guardianvision/guardianvision/src/vision
+.\..\..\venv\Scripts\activate
+(venv) PS C:\Users\velma\guardianvision\guardianvision\src\vision> notepad
+(venv) PS C:\Users\velma\guardianvision\guardianvision\src\vision> python fusion.py

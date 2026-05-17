@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+.env
+data/
+models/yolov8n.pt
+runs/
+.DS_Store
